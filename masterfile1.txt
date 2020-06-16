@@ -1,0 +1,2 @@
+this is master1 file from master branch
+line from dev branch
